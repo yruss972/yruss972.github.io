@@ -29,7 +29,7 @@ tags:
   - twitter
   - Wildcard certificate
 ---
-<img class="aligncenter size-full wp-image-319" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/burning.jpg" alt="burning money" width="698" height="400" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/burning.jpg 698w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/burning-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
+<img class="aligncenter size-full wp-image-319" src="/assets/images/2016/01/burning.jpg" alt="burning money" width="698" height="400" srcset="/assets/images/2016/01/burning.jpg 698w, /assets/images/2016/01/burning-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
 
 SSL support in your site, and therefore, in your CDN is critical but it is also incredibly expensive. In this article, I&#8217;ll show you how to save a fortune while improving the performance and security of your site.
 

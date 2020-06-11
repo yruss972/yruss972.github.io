@@ -25,7 +25,7 @@ tags:
   - Structured storage
   - Technology_Internet
 ---
-<img class="aligncenter size-full wp-image-338" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/couchbase.jpg" alt="couchbase" width="698" height="400" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/couchbase.jpg 698w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/couchbase-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
+<img class="aligncenter size-full wp-image-338" src="/assets/images/2016/01/couchbase.jpg" alt="couchbase" width="698" height="400" srcset="/assets/images/2016/01/couchbase.jpg 698w, /assets/images/2016/01/couchbase-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
 
 Here are five things that make Couchbase a go-to service in any architecture.
 

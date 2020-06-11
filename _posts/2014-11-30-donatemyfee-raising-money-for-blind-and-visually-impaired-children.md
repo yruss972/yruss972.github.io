@@ -18,7 +18,7 @@ tags:
   - United States
   - Visual impairment
 ---
-<img class="aligncenter size-medium wp-image-301" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/eliya-300x172.jpg" alt="eliya" width="300" height="172" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/eliya-300x172.jpg 300w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/eliya.jpg 698w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="aligncenter size-medium wp-image-301" src="/assets/images/2016/01/eliya-300x172.jpg" alt="eliya" width="300" height="172" srcset="/assets/images/2016/01/eliya-300x172.jpg 300w, /assets/images/2016/01/eliya.jpg 698w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Some of you may know that our daughter, Hadar, was born visually impaired. She is very nearsighted in a way that cannot be corrected with glasses and, as a result, her childhood has been very different from that of her older brothers. What normal children learn naturally from their environment passes outside her field of vision. We had to learn quickly to adapt and that&#8217;s how we found <a href="http://www.eliya.org.il/?lang=en" target="_blank" rel="nofollow">ELIYA</a>.
 

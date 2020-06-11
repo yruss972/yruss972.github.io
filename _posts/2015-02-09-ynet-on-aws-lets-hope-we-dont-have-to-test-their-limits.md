@@ -22,7 +22,7 @@ tags:
   - load balancing
   - Web services
 ---
-<img class="aligncenter size-full wp-image-350" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/tightrope.jpg" alt="tightrope" width="698" height="400" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/tightrope.jpg 698w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/tightrope-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
+<img class="aligncenter size-full wp-image-350" src="/assets/images/2016/01/tightrope.jpg" alt="tightrope" width="698" height="400" srcset="/assets/images/2016/01/tightrope.jpg 698w, /assets/images/2016/01/tightrope-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
 
 In Israel, more than in most places, no news is good news. Ynet, one of the largest news sites in Israel, recently posted a case study (at the bottom of this article) on handling large loads by moving their notification services to AWS.
 

@@ -22,7 +22,7 @@ tags:
   - Technology_Internet
   - Triton
 ---
-<img class="aligncenter size-full wp-image-379" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/docker2015me.jpg" alt="docker 2015" width="698" height="393" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/docker2015me.jpg 698w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/docker2015me-300x169.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
+<img class="aligncenter size-full wp-image-379" src="/assets/images/2016/01/docker2015me.jpg" alt="docker 2015" width="698" height="393" srcset="/assets/images/2016/01/docker2015me.jpg 698w, /assets/images/2016/01/docker2015me-300x169.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
 
 ## Year in review
 

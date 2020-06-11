@@ -22,7 +22,7 @@ tags:
   - Technology_Internet
   - zfs
 ---
-<img class="aligncenter size-full wp-image-347" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/tux.jpg" alt="tux" width="698" height="400" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/tux.jpg 698w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/tux-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
+<img class="aligncenter size-full wp-image-347" src="/assets/images/2016/01/tux.jpg" alt="tux" width="698" height="400" srcset="/assets/images/2016/01/tux.jpg 698w, /assets/images/2016/01/tux-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
 
 In case you haven&#8217;t been paying attention, Linux is in a mad dash to copy everything that made Solaris 10 amazing when it launched in 2005. Everyone has recognized the power of Zones, ZFS and DTrace but licensing issues and the sheer effort required to implement the technologies has made it a long process.
 

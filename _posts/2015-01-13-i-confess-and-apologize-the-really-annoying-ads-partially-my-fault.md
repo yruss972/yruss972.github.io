@@ -25,7 +25,7 @@ tags:
   - Targeted advertising
   - Technology_Internet
 ---
-<img class="aligncenter size-full wp-image-334" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/sorry.jpg" alt="sorry" width="698" height="400" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/sorry.jpg 698w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/sorry-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
+<img class="aligncenter size-full wp-image-334" src="/assets/images/2016/01/sorry.jpg" alt="sorry" width="698" height="400" srcset="/assets/images/2016/01/sorry.jpg 698w, /assets/images/2016/01/sorry-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
 
 You know those really annoying popup messages you get on your phone when you&#8217;re browsing? They aren&#8217;t easy to ignore like popups on your desktop. They are really, get in your face, make it hard to see the site you wanted to see, annoying. Well, I confess. I helped make those and I&#8217;m really sorry.
 

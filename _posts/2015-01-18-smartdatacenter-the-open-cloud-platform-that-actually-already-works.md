@@ -21,7 +21,7 @@ tags:
   - SMF
   - solaris
 ---
-<img class="aligncenter size-full wp-image-341" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/sdc.jpg" alt="sdc" width="698" height="400" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/sdc.jpg 698w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/sdc-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
+<img class="aligncenter size-full wp-image-341" src="/assets/images/2016/01/sdc.jpg" alt="sdc" width="698" height="400" srcset="/assets/images/2016/01/sdc.jpg 698w, /assets/images/2016/01/sdc-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
 
 For years enterprises have tried to make OpenStack work and failed miserably. Considering how many heads have broken against OpenStack, maybe they should have called it OpenBrick.
 

@@ -26,7 +26,7 @@ tags:
   - system monitoring solution
   - Technology_Internet
 ---
-<img class="aligncenter size-full wp-image-331" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/elephant.jpg" alt="elephant" width="600" height="343" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/elephant.jpg 600w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/elephant-300x172.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
+<img class="aligncenter size-full wp-image-331" src="/assets/images/2016/01/elephant.jpg" alt="elephant" width="600" height="343" srcset="/assets/images/2016/01/elephant.jpg 600w, /assets/images/2016/01/elephant-300x172.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
 
 You know the elephant in the room, the one no one wants to talk about. Well it turns out there was a whole herd of them hiding in my cloud. There&#8217;s a herd of them hiding in your cloud too. I&#8217;m sure of it. Here is my story and how I learned to wrangle the elephants in the cloud.
 

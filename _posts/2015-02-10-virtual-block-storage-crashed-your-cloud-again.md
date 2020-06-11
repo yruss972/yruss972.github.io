@@ -32,7 +32,7 @@ tags:
   - Web hosting
   - Web services
 ---
-<img class="aligncenter size-full wp-image-353" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/darthvader.jpg" alt="darthvader" width="698" height="400" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/darthvader.jpg 698w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/darthvader-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
+<img class="aligncenter size-full wp-image-353" src="/assets/images/2016/01/darthvader.jpg" alt="darthvader" width="698" height="400" srcset="/assets/images/2016/01/darthvader.jpg 698w, /assets/images/2016/01/darthvader-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
 
 You know it&#8217;s bad when you start writing an incident report with the words &#8220;The first 12 hours.&#8221; You know you need a stiff drink, possibly a career change, when you follow that up with phrases like &#8220;this was going to be a lengthy outage&#8230;&#8221;, &#8220;the next 48 hours&#8230;&#8221;, and &#8220;as much as 3 days&#8221;.
 

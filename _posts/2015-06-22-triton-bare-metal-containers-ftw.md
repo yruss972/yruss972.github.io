@@ -28,7 +28,7 @@ tags:
   - Xen
   - zone technology
 ---
-<img class="aligncenter size-full wp-image-371" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/triton.jpg" alt="triton" width="698" height="400" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/triton.jpg 698w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/triton-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
+<img class="aligncenter size-full wp-image-371" src="/assets/images/2016/01/triton.jpg" alt="triton" width="698" height="400" srcset="/assets/images/2016/01/triton.jpg 698w, /assets/images/2016/01/triton-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
 
 If you haven&#8217;t heard of <a href="https://www.docker.com/" target="_blank" rel="nofollow">Docker</a>, I&#8217;m not sure what cave you&#8217;ve been living in but here&#8217;s the short story:
 

@@ -45,7 +45,7 @@ tags:
   - Web services
   - web serving infrastructure
 ---
-<img class="aligncenter size-full wp-image-304" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/perf.jpg" alt="perf" width="696" height="399" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/perf.jpg 696w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/perf-300x172.jpg 300w" sizes="(max-width: 696px) 100vw, 696px" />
+<img class="aligncenter size-full wp-image-304" src="/assets/images/2016/01/perf.jpg" alt="perf" width="696" height="399" srcset="/assets/images/2016/01/perf.jpg 696w, /assets/images/2016/01/perf-300x172.jpg 300w" sizes="(max-width: 696px) 100vw, 696px" />
 
 I had an idea. That&#8217;s always how it starts. Before I know it, I&#8217;ve purchased the domain name and I&#8217;m futzing around with some HTML but where am I going to host it and how much is this going to end up costing me?
 

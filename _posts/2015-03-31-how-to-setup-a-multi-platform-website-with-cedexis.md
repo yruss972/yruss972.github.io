@@ -26,7 +26,7 @@ tags:
   - traffic optimization solutions
   - Web services
 ---
-<img class="aligncenter size-full wp-image-361" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/multiplatform.jpg" alt="multiplatform" width="698" height="400" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/multiplatform.jpg 698w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/multiplatform-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
+<img class="aligncenter size-full wp-image-361" src="/assets/images/2016/01/multiplatform.jpg" alt="multiplatform" width="698" height="400" srcset="/assets/images/2016/01/multiplatform.jpg 698w, /assets/images/2016/01/multiplatform-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
 
 With the recent and ongoing DDOS attacks against Github, many sites hosted as Github Pages have been scrambling to find alternative hosting. I began writing this tutorial long before the attacks but the configuration you find here is exactly what you need to serve static content from multiple providers like Github Pages, Divshot, Amazon S3, etc.
 

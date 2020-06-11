@@ -18,7 +18,7 @@ tags:
   - Fast Feedback
   - Github
 ---
-<img class="aligncenter size-full wp-image-366" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/cf.jpg" alt="cf" width="698" height="400" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/cf.jpg 698w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/cf-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
+<img class="aligncenter size-full wp-image-366" src="/assets/images/2016/01/cf.jpg" alt="cf" width="698" height="400" srcset="/assets/images/2016/01/cf.jpg 698w, /assets/images/2016/01/cf-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
 
 In case you were wondering why I haven&#8217;t written a word in the past two months, the answer is <a href="http://codefresh.io/" target="_blank" rel="nofollow">CodeFresh</a>. We&#8217;ve been working day and night with our private beta customers to make CodeFresh the fastest and easiest way for you to hack on your code.
 

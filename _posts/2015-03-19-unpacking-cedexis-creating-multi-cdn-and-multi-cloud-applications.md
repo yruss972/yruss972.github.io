@@ -23,7 +23,7 @@ tags:
   - synthetic polling tool
   - Technology_Internet
 ---
-<img class="aligncenter size-full wp-image-358" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/package.jpg" alt="package" width="698" height="400" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/package.jpg 698w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/package-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
+<img class="aligncenter size-full wp-image-358" src="/assets/images/2016/01/package.jpg" alt="package" width="698" height="400" srcset="/assets/images/2016/01/package.jpg 698w, /assets/images/2016/01/package-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
 
 Technology is incredibly complex and, at the same time, incredibly unreliable. As a result, we build backup measures into the DNA of everything around us. Our laptops switch to battery when the power goes out. Our cellphones switch to cellular data when they lose connection to WiFi.
 

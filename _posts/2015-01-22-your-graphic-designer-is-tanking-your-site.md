@@ -22,7 +22,7 @@ tags:
   - Transparency
   - Web design
 ---
-<img class="aligncenter size-full wp-image-344" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/mona.jpg" alt="mona lisa" width="698" height="400" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/mona.jpg 698w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/mona-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
+<img class="aligncenter size-full wp-image-344" src="/assets/images/2016/01/mona.jpg" alt="mona lisa" width="698" height="400" srcset="/assets/images/2016/01/mona.jpg 698w, /assets/images/2016/01/mona-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
 
 Your graphic designer is an artist, a trained expert in aesthetics, a master at conveying messages via images and feelings via fonts. He may also be slowing your site down so much that nobody is seeing it.
 

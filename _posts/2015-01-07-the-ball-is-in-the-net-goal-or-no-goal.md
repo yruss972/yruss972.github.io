@@ -28,7 +28,7 @@ tags:
   - tune infrastructure
   - Zynga
 ---
-<img class="aligncenter size-full wp-image-308" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/goal.jpg" alt="goal" width="698" height="400" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/goal.jpg 698w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/goal-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
+<img class="aligncenter size-full wp-image-308" src="/assets/images/2016/01/goal.jpg" alt="goal" width="698" height="400" srcset="/assets/images/2016/01/goal.jpg 698w, /assets/images/2016/01/goal-300x172.jpg 300w" sizes="(max-width: 698px) 100vw, 698px" />
 
 The ball hit the net but from which side. Can you tell? Over the past three years, companies have pushed themselves to the cloud for many reasons but have they landed in the wrong side of the net?
 

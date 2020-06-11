@@ -14,7 +14,7 @@ tags:
   - Startup company
   - venture capital
 ---
-<img class="aligncenter size-full wp-image-398" src="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/shoulders.jpg" alt="shoulders" width="800" height="500" srcset="http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/shoulders.jpg 800w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/shoulders-300x188.jpg 300w, http://www.yonahruss.com/wordpress/wp-content/uploads/2016/01/shoulders-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+<img class="aligncenter size-full wp-image-398" src="/assets/images/2016/01/shoulders.jpg" alt="shoulders" width="800" height="500" srcset="/assets/images/2016/01/shoulders.jpg 800w, /assets/images/2016/01/shoulders-300x188.jpg 300w, /assets/images/2016/01/shoulders-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
 
 In an <a href="http://aleph.vc/2015-in-review-or-2016-less-but-better/" target="_blank" rel="nofollow">open retrospective</a>, <a href="https://il.linkedin.com/in/edens" target="_blank">Eden Shochat, </a>from Aleph VC, asks what they could do better to help the companies they invest in. I really appreciate the openness of the Aleph VC blog and if they are willing to ask what they could do better, I&#8217;m willing to make some suggestions.
 
