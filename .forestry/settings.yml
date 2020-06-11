@@ -5,6 +5,16 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: directory
+  path: _includes
+  label: Includes
+  create: all
+  match: "**/*"
+- type: directory
+  path: _layouts
+  label: Layouts
+  create: all
+  match: "**/*"
+- type: directory
   path: _pages
   label: Deep Pages
   create: all
