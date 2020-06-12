@@ -4,12 +4,7 @@ title: 'Sun Webstack 1.4 &#8211; Packages on Crack'
 date: 2009-04-21T13:18:00-07:00
 author: Yonah Russ
 layout: post
-guid: http://yonahruss.com/wordpress/2009/04/sun-webstack-1-4-packages-on-crack.html
 permalink: /unix/sun-webstack-1-4-packages-on-crack.html
-blogger_blog:
-  - tempyonahruss.blogspot.com
-blogger_permalink:
-  - /2009/04/sun-webstack-14-packages-on-crack.html
 dsq_thread_id:
   - "522879161"
 categories:
@@ -39,7 +34,7 @@ I love zones.
 I really love T2/T2+ processors.  
 I especially love the T5140 and X4450 servers.
 
-One thing I cannot figure out though, is why Sun lets obviously delirious cocaine addicts package their software. Maybe I&#8217;m exaggerating but I think that many will agree that Sun&#8217;s packages leave much to be desired in general. On top of that, Sun seems to have a constant need to move software around and invent new paths- to boldy go where no sysadmin has gone before????
+One thing I cannot figure out though, is why Sun lets obviously delirious cocaine addicts package their software.<!--more-->  Maybe I&#8217;m exaggerating but I think that many will agree that Sun&#8217;s packages leave much to be desired in general. On top of that, Sun seems to have a constant need to move software around and invent new paths- to boldy go where no sysadmin has gone before????
 
 Our journey begins with the mythic /usr/ucb/ directory- a true treasure chest for those making the adjustment from Linux. We&#8217;ll continue to /usr/local/ ala sun freeware (actually the most normal place we will visit but not actually supported by sun) and then arrive at the more recent /usr/sfw.
 
